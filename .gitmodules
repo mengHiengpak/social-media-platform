@@ -1,0 +1,6 @@
+[submodule "sbay-back-end"]
+	path = sbay-back-end
+	url = https://github.com/mengHiengpak/sbay-back-end.git
+[submodule "sbay-front-end"]
+	path = sbay-front-end
+	url = https://github.com/mengHiengpak/sbay-front-end.git
